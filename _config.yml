@@ -21,8 +21,8 @@
 title: A simple engineer's blog
 #email: blog@mommers.us
 description: >- # this means to ignore newlines until "baseurl:"
-  Using Github Pages to track knowledge and discovery
-baseurl: "/" # the subpath of your site, e.g. /blog
+  Caution: Things will break
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.mommers.us" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  untoldverse
