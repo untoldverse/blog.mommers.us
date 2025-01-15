@@ -14,7 +14,7 @@ Eventually I discover hypervisors in highschool as they star ted to emerge and U
 Eventually I switched fully to Linux by the Windows 10 rolled out, and I was working in a QA/Test Lab for Security/Network gear which catapult me into Enterprise technology. From ESXI/Linux/Network gear that really allowed me to test/configure/ and learn about best practices regarding deployment and security implications. I've also started to really learn python at this point.
 
 
-I'm currently learning and trying to improve my coding/software experience from a professional standpoint. Scripting languages such as bash/terraform (yes I count it scripting) I really like Linux/FreeBSD - as there are MUCH more tech options to do in these systems. 
+I'm currently learning and trying to improve my coding/software experience from a professional standpoint. Scripting languages such as bash/terraform (yes I count it scripting) I really like Linux/FreeBSD - as there are MUCH more tech options to do in these systems. !
 
 Languages:
 `Python`
