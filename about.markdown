@@ -22,7 +22,7 @@ Languages:
 `Rust`
 `Zig/OCAML` (In the Process for Zig/OCAML!)
 
-I really dislike that getting access to firmware/network images from vendors are really hard to acuire to learn and test (especially when you are playing with APIs)
+I really dislike that getting access to firmware/network images from vendors are really hard to acquire to learn and test (especially when you are playing with APIs)
 
 Side-note: I love playing games, mostly co-op and single player games now. I used to love to play MMOs (Everquest/Lineage/FFXI) - but the genre has lost its' soul in my opinion. I really like playing "arcade" games since its simple and hard to do and rhythm games like DJMax! 
 
