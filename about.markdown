@@ -26,6 +26,6 @@ I really dislike that getting access to firmware/network images from vendors are
 
 Side-note: I love playing games, mostly co-op and single player games now. I used to love to play MMOs (Everquest/Lineage/FFXI) - but the genre has lost its' soul in my opinion. I really like playing "arcade" games since its simple and hard to do and rhythm games like DJMax! 
 
-LinkedIn: [linkedin](https://www.linkedin.com/in/jmommers)
+
 
 Github: [Github](https://github.com/untoldverse)
