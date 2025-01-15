@@ -14,15 +14,17 @@ Eventually I discover hypervisors in highschool as they star ted to emerge and U
 Eventually I switched fully to Linux by the Windows 10 rolled out, and I was working in a QA/Test Lab for Security/Network gear which catapult me into Enterprise technology. From ESXI/Linux/Network gear that really allowed me to test/configure/ and learn about best practices regarding deployment and security implications. I've also started to really learn python at this point.
 
 
-I'm currently learning and trying to improve my coding/software experience from a professional standpoint. Scripting languages such as bash/terraform (yes I count it scripting) I really like Linux/FreeBSD - as there are MUCH more tech options to do in these systems. !
+I'm currently learning and trying to improve my coding/software experience from a professional standpoint. Scripting languages such as bash/terraform (yes I count it scripting) I really like Linux/FreeBSD - as there are MUCH more tech options to do in these systems. I did intend to get back into software now that I gotten more focus in my career versus my college days lol.
 
 Languages:
 `Python`
 `Golang`
-`Rust`
-`Zig/OCAML` (In the Process for Zig/OCAML!)
+`Rust` (Learning on the side)
+`Zig` (Just starting)
 
 I really dislike that getting access to firmware/network images from vendors are really hard to acquire to learn and test (especially when you are playing with APIs)
+
+Evntually - I will move my blog off github pages and host it myself once I have a stable area (self-host, not hating on using cloud, I just have extra low powered devices and a blog isn't "critical")
 
 Side-note: I love playing games, mostly co-op and single player games now. I used to love to play MMOs (Everquest/Lineage/FFXI) - but the genre has lost its' soul in my opinion. I really like playing "arcade" games since its simple and hard to do and rhythm games like DJMax! 
 
